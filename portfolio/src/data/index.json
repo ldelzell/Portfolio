@@ -1,0 +1,52 @@
+{
+    "skills" : [
+        {
+            "id": "1",
+            "src": "./Images/skill1.jpg",
+            "title": "Front-End",
+            "description": "Veryyy nice tits"
+        },
+        {
+            "id": "2",
+            "src": "./Images/skill2.jpg",
+            "title": "Back-End",
+            "description": "Veryyy nice tits"
+        },
+        {
+            "id": "3",
+            "src": "./Images/skill3.jpg",
+            "title": "Dokker",
+            "description": "Veryyy nice tits"
+        },
+        {
+            "id": "4",
+            "src": "./Images/skill4.jpg",
+            "title": "Photography",
+            "description": "Veryyy nice asss"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id": "1",
+            "src": "./Images/portfolio1.jpg",
+            "title": "Front-End",
+            "description": "Veryyy nice tits",
+            "link": "View on GitHub"
+        },
+        {
+            "id": "2",
+            "src": "./Images/portfolio2.jpg",
+            "title": "Back-End",
+            "description": "Veryyy nice tits",
+            "link": "View on GitHub"
+        },
+        {
+            "id": "3",
+            "src": "./Images/portfolio3.jpg",
+            "title": "Dokker",
+            "description": "Veryyy nice tits",
+            "link": "View on GitHub"
+        }
+    ]
+}
