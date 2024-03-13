@@ -55,7 +55,7 @@ function NavBar(){
                             smooth={true} 
                             offset={-70} 
                             duration={500}
-                            to="hereSection"
+                            to="heroSection"
                             className="navbar--content"
                             >
                                 Home
