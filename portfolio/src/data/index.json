@@ -2,27 +2,27 @@
     "skills" : [
         {
             "id": "1",
-            "src": "./Images/skill1.jpg",
+            "src": "./Images/1.jpg",
             "title": "Front-End",
-            "description": "Veryyy nice tits"
+            "description": "For now basic knowledge on React Framework and Figma Designs. "
         },
         {
             "id": "2",
             "src": "./Images/skill2.jpg",
             "title": "Back-End",
-            "description": "Veryyy nice tits"
+            "description": "So far in my coding jorney, I have gone through proficient levels of C# ASP .NET CORE, Java(Spring Boot), RESTFul API, Gradle and ect..."
         },
         {
             "id": "3",
-            "src": "./Images/skill3.jpeg",
-            "title": "Dokker",
-            "description": "Veryyy nice tits"
+            "src": "./Images/skill3.png",
+            "title": "Photography",
+            "description": "I tend to belife that I am really good at taking some pictures. Come and check it out yourself"
         },
         {
             "id": "4",
-            "src": "./Images/skill4.jpg",
-            "title": "Photography",
-            "description": "Veryyy nice asss"
+            "src": "./Images/skill4.png",
+            "title": "EXQ Digital | Start-Up",
+            "description": "A Digital Marketing Agency specializing in Meta Advertisement. Founders - Stanislav Nikolov, Maksimilian Rechnio"
         }
     ],
 

@@ -10,15 +10,17 @@ export default function HeroSection(){
                       <br />
                       Developer
                     </h1>
-                    <p className="hero--section--description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro iure natus, velit aliquid numquam officiis dolore beatae deserunt soluta labore. 
-                        Sunt magnam consequuntur inventore dolore esse adipisci tempore sint aspernatur.
-                        <br/>kdejfejfksejfklsdjfskjdfsdkjf?
-                    </p>x
+                    <p className="hero--section--description">Hello everyone, my name is Stanislav Nikolov and I am currently a second year student in 
+                    Fontys University of Applied Science in the Netherlands. I am obsessed with improving and getting better every day, even if it is by just a little bit.
+                    I am a man of many hobbies, stories and adventures. Hang on and we are going to enjoy the time together.
+                    <br/>
+                        <br/>You ready?
+                    </p>
                 </div>
                 <button className="btn btn-primary"> Get in touch</button>
             </div>
             <div className="hero--section--image">
-                <img src="./Images/me.jpg" alt="hero" height="90%" width="600px"/>
+                <img src="./Images/portfolio2.jpg" alt="hero" height="90%" width="600px"/>
             </div>
         </section>
     )
