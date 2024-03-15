@@ -14,7 +14,7 @@
         },
         {
             "id": "3",
-            "src": "./Images/skill3.jpg",
+            "src": "./Images/skill3.jpeg",
             "title": "Dokker",
             "description": "Veryyy nice tits"
         },
@@ -29,23 +29,23 @@
     "portfolio" : [
         {
             "id": "1",
-            "src": "./Images/portfolio1.jpg",
-            "title": "Front-End",
-            "description": "Veryyy nice tits",
-            "link": "View on GitHub"
+            "src": "./Images/fridgemate.png",
+            "title": "FridgeMate",
+            "description": "Web Application made to ease your everyday cooking life. Made in C# ASP .NET Core Razor Pages",
+            "link": "https://github.com/ldelzell/FridgeMate"
         },
         {
             "id": "2",
-            "src": "./Images/portfolio2.jpg",
+            "src": "./Images/svshoots.png",
             "title": "Back-End",
             "description": "Veryyy nice tits",
             "link": "View on GitHub"
         },
         {
             "id": "3",
-            "src": "./Images/portfolio3.jpg",
-            "title": "Dokker",
-            "description": "Veryyy nice tits",
+            "src": "./Images/svshoots.png",
+            "title": "SV Shoots",
+            "description": "Car Photography Page",
             "link": "View on GitHub"
         }
     ]

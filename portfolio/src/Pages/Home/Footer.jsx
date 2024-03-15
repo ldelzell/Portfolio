@@ -18,7 +18,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="heroSection"
-                className="text-md"
+                className="text-md-nav"
               >
                 Home
               </Link>
@@ -31,7 +31,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="MyPortfolio"
-                className="text-md"
+                className="text-md-nav"
               >
                 Portfolio
               </Link>
@@ -44,7 +44,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="AboutMe"
-                className="text-md"
+                className="text-md-nav"
               >
                 About Me
               </Link>
@@ -57,22 +57,9 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="Contact"
-                className="text-md"
+                className="text-md-nav"
               >
                 Contact
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
               </Link>
             </li>
           </ul>
@@ -81,7 +68,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/profile.php?id=61550587529482"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +89,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/stasnikolov03/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +133,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/stasnikolov/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -172,7 +159,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Always watch your back...</p>
         <div className="footer--social--icon">
           <ul>
             <li>

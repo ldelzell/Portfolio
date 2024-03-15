@@ -36,7 +36,7 @@ function NavBar(){
         //Since the navbar can be active and not, we have to give that 2 class names and this is how we decide what class name does it have
         <nav className={`navbar ${navActive? "active": ""}`}>
             <div>
-                <img src="./Logo.png" alt="logo" height="100%" width="70px"/>
+                {/* <img src="./Logo.png" alt="logo" height="100%" width="70px"/> */}
                 <a className={`nav__hamburger ${navActive ? "active" : ""}`} onClick={toggleNav}>
                     <span className="nav__hamburger__line">
                     </span>
@@ -73,20 +73,6 @@ function NavBar(){
                             className="navbar--content"
                             >
                                 Porfolio
-                            </Link>
-                        </li>
-                        <li>
-                            <Link 
-                                onClick={closeMenu} 
-                                activeClass="navbar--active-content" 
-                                spy={true} 
-                                smooth={true} 
-                                offset={-70} 
-                                duration={500}
-                                to="AboutMe"
-                                className="navbar--content"
-                            >
-                                AboutMe
                             </Link>
                         </li>
                         <li>

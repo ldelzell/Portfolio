@@ -4,7 +4,7 @@ export default function ContactMe(){
             <div>
                 <p className="sub--title">Get In Touch</p>
                 <h2>Contact Me</h2>
-                <p className="text-lg">ewrqwrfrrrrererererer</p>
+                <p className="text-lg">Don't hesitate, I don't bite!</p>
             </div>
             <form className="contact--form--container">
                 <div className="container">

@@ -6,19 +6,19 @@ export default function HeroSection(){
                 <div className="hero--section--content">
                     <p className="section-title">Hey, I am Stas</p>
                     <h1 className="here--section--title">
-                      <span className="hero--section--title--colour">Full STack</span>{" "}
+                      <span className="hero--section--title--colour">Full Stack</span>{" "}
                       <br />
                       Developer
                     </h1>
                     <p className="hero--section--description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro iure natus, velit aliquid numquam officiis dolore beatae deserunt soluta labore. 
                         Sunt magnam consequuntur inventore dolore esse adipisci tempore sint aspernatur.
                         <br/>kdejfejfksejfklsdjfskjdfsdkjf?
-                    </p>
+                    </p>x
                 </div>
                 <button className="btn btn-primary"> Get in touch</button>
             </div>
             <div className="hero--section--image">
-                <img src="./2.jpg" alt="hero" height="90%" width="600px"/>
+                <img src="./Images/me.jpg" alt="hero" height="90%" width="600px"/>
             </div>
         </section>
     )
