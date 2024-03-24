@@ -37,17 +37,17 @@
         },
         {
             "id": "2",
-            "src": "./Images/svshoots.png",
+            "src": "./Images/skill4.png",
             "title": "Back-End",
-            "description": "Veryyy nice tits",
-            "link": "View on GitHub"
+            "description": "Digital Marketing Agency Start Up",
+            "link": "https://exqdigital.com/"
         },
         {
             "id": "3",
             "src": "./Images/svshoots.png",
             "title": "SV Shoots",
             "description": "Car Photography Page",
-            "link": "View on GitHub"
+            "link": "https://www.instagram.com/"
         }
     ]
 }

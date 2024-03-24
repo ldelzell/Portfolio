@@ -281,9 +281,12 @@ h2 {
   border-radius: 10.6px;
   background: var(--bg-shade);
   min-height: 250px;
+  transition: transform 0.3s ease;
 }
 .skills--section--card:hover {
   border-bottom: 4px solid var(--primary);
+  transform: scale(1.02); 
+  cursor: pointer;
 }
 .skills--section--card:hover .skills--section--description {
   color: var(--darkblue);
